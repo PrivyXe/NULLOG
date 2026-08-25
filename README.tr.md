@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="onepage/assets/logo.png" alt="NULLOG" width="120" height="120"/>
 
@@ -9,14 +9,14 @@
 ### Android için Kurumsal, Cihaz-Üstü Gizlilik Güvenlik Duvarı
 
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
-[![Sürüm](https://img.shields.io/badge/Sürüm-v2.4-10B981?style=flat-square)](#)
+[![Sürüm](https://img.shields.io/badge/Sürüm-v1.0.0-10B981?style=flat-square)](#)
 [![Motor](https://img.shields.io/badge/Motor-%25100%20Cihaz%20Üstü-0E1524?style=flat-square)](#)
 [![DNS](https://img.shields.io/badge/DNS-DoH%20%2F%20DoT-6366F1?style=flat-square)](#)
 [![Log](https://img.shields.io/badge/Log-Sıfır-10B981?style=flat-square)](#)
 
 **Sıfır bulut yönlendirmesi. Sıfır kayıt. Sıfır uzlaşma.**
 
-[⬇️ APK İndir](#kurulum) · [🌐 Ürün Sayfası](onepage/index.html) · [💬 Telegram](https://t.me/e3x6v)
+[⬇️ APK İndir](https://github.com/PrivyXe/NULLOG/blob/main/onepage/assets/NULLOG-1-0-0.apk) · [🌐 Ürün Sayfası](https://nullog.fyi) · [💬 Telegram](https://t.me/e3x6v)
 
 <br/>
 
@@ -104,7 +104,7 @@ Pro lisanslar cihaz donanımına kriptografik olarak bağlıdır — hiçbir zam
 
 **Android 8.0+ · ARM64 / x86 Evrensel · 13.5 MB**
 
-👉 [**APK İndir (v2.4)**](onepage/assets/app-release.apk)
+👉 [**APK İndir (v1.0.0)**](https://github.com/PrivyXe/NULLOG/blob/main/onepage/assets/NULLOG-1-0-0.apk)
 
 ### Yan Yükleme Adımları
 1. APK'yı Android cihazınıza indirin.
@@ -125,7 +125,7 @@ Her yeni kurulum otomatik olarak **90 gün Pro** alır — aktivasyon gerekmez.
 |:---|:---|
 | **Telegram** | [@e3x6v](https://t.me/e3x6v) |
 | **Pro Lisans** | Telegram üzerinden ömür boyu satın al |
-| **Ürün Sayfası** | [nullog.app](onepage/index.html) |
+| **Ürün Sayfası** | [nullog.fyi](https://nullog.fyi) |
 
 ---
 

@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="onepage/assets/logo.png" alt="NULLOG" width="120" height="120"/>
 
@@ -9,14 +9,14 @@
 ### Enterprise On-Device Privacy Firewall for Android
 
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
-[![Version](https://img.shields.io/badge/Release-v2.4-10B981?style=flat-square)](#)
+[![Version](https://img.shields.io/badge/Release-v1.0.0-10B981?style=flat-square)](#)
 [![Engine](https://img.shields.io/badge/Engine-100%25%20On--Device-0E1524?style=flat-square)](#)
 [![DNS](https://img.shields.io/badge/DNS-DoH%20%2F%20DoT-6366F1?style=flat-square)](#)
 [![Logs](https://img.shields.io/badge/Logs-Zero-10B981?style=flat-square)](#)
 
 **Zero cloud routing. Zero logs. Zero compromise.**
 
-[⬇️ Download APK](#download) · [🌐 Product Page](https://nullog.app) · [💬 Telegram](https://t.me/e3x6v)
+[⬇️ Download APK](https://github.com/PrivyXe/NULLOG/blob/main/onepage/assets/NULLOG-1-0-0.apk) · [🌐 Product Page](https://nullog.fyi) · [💬 Telegram](https://t.me/e3x6v)
 
 <br/>
 
@@ -104,7 +104,7 @@ Pro licenses are cryptographically tied to your device hardware — no account, 
 
 **Android 8.0+ · ARM64 / x86 Universal · 13.5 MB**
 
-👉 [**Download APK (v2.4)**](onepage/assets/app-release.apk)
+👉 [**Download APK (v1.0.0)**](https://github.com/PrivyXe/NULLOG/blob/main/onepage/assets/NULLOG-1-0-0.apk)
 
 ### Installation (Sideload)
 1. Download the APK to your Android device.
@@ -125,7 +125,7 @@ Every new install automatically receives **90 days of Pro** — no activation ne
 |:---|:---|
 | **Telegram** | [@e3x6v](https://t.me/e3x6v) |
 | **Pro License** | Purchase lifetime via Telegram |
-| **Landing Page** | [nullog.app](onepage/index.html) |
+| **Landing Page** | [nullog.fyi](https://nullog.fyi) |
 
 ---
 

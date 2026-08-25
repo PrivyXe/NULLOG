@@ -16,7 +16,7 @@
 
 **Zero cloud routing. Zero logs. Zero compromise.**
 
-[⬇️ Download APK](https://github.com/PrivyXe/NULLOG/blob/main/onepage/assets/NULLOG-1-0-0.apk) · [🌐 Product Page](https://nullog.fyi) · [💬 Telegram](https://t.me/e3x6v)
+[⬇️ Download APK](https://github.com/PrivyXe/NULLOG/releases/download/v1.0.0/NULLOG-1-0-0.apk) · [🌐 Product Page](https://nullog.fyi) · [💬 Telegram](https://t.me/e3x6v)
 
 <br/>
 
@@ -104,7 +104,7 @@ Pro licenses are cryptographically tied to your device hardware — no account, 
 
 **Android 8.0+ · ARM64 / x86 Universal · 13.5 MB**
 
-👉 [**Download APK (v1.0.0)**](https://github.com/PrivyXe/NULLOG/blob/main/onepage/assets/NULLOG-1-0-0.apk)
+👉 [**Download APK (v1.0.0)**](https://github.com/PrivyXe/NULLOG/releases/download/v1.0.0/NULLOG-1-0-0.apk)
 
 ### Installation (Sideload)
 1. Download the APK to your Android device.
@@ -145,3 +145,4 @@ Every new install automatically receives **90 days of Pro** — no activation ne
 *Made for people who actually care about what their phone is doing.*
 
 </div>
+

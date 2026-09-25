@@ -189,7 +189,7 @@ Lookup Engine:       Radix-Trie in-memory tree (O(k) complexity)
 Average Latency:     0.38 ms on mid-tier hardware
 Root Requirement:    None (Uses Android VpnService local loopback)
 Database Storage:    Encrypted local SQLite (device-only metrics)
-Licensing Mechanism: One-way SHA-256 hardware HMAC bound (no email/passwords)
+Account Requirement: None (Zero sign-up, zero data collection)
 ```
 
 ---
@@ -220,7 +220,7 @@ Obtain the latest signed APK directly from GitHub Releases:
 
 - **No Remote Intermediary**: All filtering decisions happen inside device RAM. We operate zero cloud proxy hops.
 - **Zero Identifiers**: No Google Analytics, Firebase, Sentry, or third-party telemetry SDKs are bundled inside NULLOG.
-- **No User Accounts**: Pro licenses utilize a cryptographic one-way SHA-256 hardware fingerprint signed via server-side HMAC. No email addresses, phone numbers, or credit card records are tied to your device.
+- **No User Accounts**: Completely account-free. No email addresses, phone numbers, passwords, or personal credentials are ever requested or collected.
 - **Local SQLite Storage**: Counter metrics (blocked domains, data saved) are stored exclusively on your device. Clearing app storage erases all records permanently.
 
 ---

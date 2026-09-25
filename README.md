@@ -81,8 +81,6 @@ Every DNS query that passes through NULLOG is encrypted before it reaches your I
 
 <br/>
 
-### 🔑 Hardware-Bound Licensing
-Pro licenses are cryptographically tied to your device hardware — no account, no email, no credit card ever required. Activate via Telegram, use forever.
 
 ---
 
@@ -114,8 +112,6 @@ Pro licenses are cryptographically tied to your device hardware — no account, 
 
 > NULLOG uses Android's `VpnService` API to create a **local-only packet inspection socket**. Your data never leaves your device through NULLOG.
 
-### 🚀 First Launch Bonus
-Every new install automatically receives **90 days of Pro** — no activation needed.
 
 ---
 

@@ -16,7 +16,7 @@
 
 **Zero cloud routing. Zero logs. Zero compromise.**
 
-[⬇️ Download APK](https://github.com/PrivyXe/NULLOG/releases/download/v1.0.0/NULLOG-1-0-0.apk) · [🌐 Product Page](https://nullog.fyi) · [💬 Telegram](https://t.me/e3x6v)
+[⬇️ Download APK](https://github.com/PrivyXe/NULLOG/releases/download/1.0.2/NULLOG-1-0-2.apk) · [🌐 Product Page](https://nullog.fyi) · [💬 Telegram](https://t.me/e3x6v)
 
 <br/>
 
@@ -102,7 +102,7 @@ Every DNS query that passes through NULLOG is encrypted before it reaches your I
 
 **Android 8.0+ · ARM64 / x86 Universal · 13.5 MB**
 
-👉 [**Download APK (v1.0.0)**](https://github.com/PrivyXe/NULLOG/releases/download/v1.0.0/NULLOG-1-0-0.apk)
+👉 [**Download APK (v1.0.2)**](https://github.com/PrivyXe/NULLOG/releases/download/1.0.2/NULLOG-1-0-2.apk)
 
 ### Installation (Sideload)
 1. Download the APK to your Android device.
@@ -120,7 +120,6 @@ Every DNS query that passes through NULLOG is encrypted before it reaches your I
 | | |
 |:---|:---|
 | **Telegram** | [@e3x6v](https://t.me/e3x6v) |
-| **Pro License** | Purchase lifetime via Telegram |
 | **Landing Page** | [nullog.fyi](https://nullog.fyi) |
 
 ---
